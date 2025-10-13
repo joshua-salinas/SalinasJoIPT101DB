@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[CoffeeShop]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[CoffeeShop] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[CreateCoffeeShop] (Procedure)
+       [dbo].[DeleteCoffeeShop] (Procedure)
+       [dbo].[GetALLCoffeeShop] (Procedure)
+       [dbo].[GetCoffeeShop] (Procedure)
+       [dbo].[UpdateCoffeeShop] (Procedure)

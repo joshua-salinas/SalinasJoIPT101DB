@@ -1,0 +1,10 @@
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.dacpac
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.dll
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.sqlproj.AssemblyReference.cache
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.dll
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\Model.xml
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\refactor.xml
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\postdeploy.sql
+G:\SalinasIPT101DM\SalinasCoffeeShop\SalinasCoffeeShop\CoffeeShop\obj\Debug\predeploy.sql
